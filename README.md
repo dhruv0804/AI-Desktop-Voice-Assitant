@@ -12,7 +12,7 @@ What is pyttsx3?
 A python library that will help us to convert text to speech. In short, it is a text-to-speech library.
 It works offline, and it is compatible with Python 2 as well as Python 3.
 
-What is sapi5?
+What is sapi5(for windows and for MacOS it is 'nsss')?
 Microsoft developed speech API.
 Helps in synthesis and recognition of voice.
 
